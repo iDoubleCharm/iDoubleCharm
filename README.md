@@ -1,4 +1,3 @@
-<img src="https://via.placeholder.com/1200x300?text=iDoubleCharm" alt="Banner" width="100%" />
 
 # Hi, I'm Enes Eymen! ⚡🌌       
 
@@ -17,7 +16,7 @@
 
 ---
 ### 🛠️ Tech Stack
-- Programming Languages: **LOADING...**  🌱
+- Programming Languages: Python (In Progress)
 - Tools & Platforms:  `Git`  `GitHub`  `VS Code`
 - Frameworks & Libraries: **LOADING...**  🏗️
 ---
