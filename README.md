@@ -16,13 +16,13 @@
 
 ---
 ### 🛠️ Tech Stack
-- Programming Languages: Python (In Progress)
-- Tools & Platforms:  `Git`  `GitHub`  `VS Code`
+- Programming Languages: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" align="center" /> (In Progress)
+- Tools & Platforms:  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" align="center" />  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" align="center" />  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" align="center" />
 - Frameworks & Libraries: **LOADING...**  🏗️
 ---
 ### Connect with me          
 - Gmail: tunaeneseymen@gmail.com
-- LinkedIn: www.linkedin.com/in/enes-eymen-tuna-18bb31403
+- LinkedIn: www.linkedin.com/in/enes-eymen-tuna
 ---
 <p align="center">
   <h2>🦾 Technology Meets Essence 🌹</h2>
@@ -50,3 +50,6 @@ Markdown
 ## 🐍 Contribution Graph
 
 ![snake gif](https://github.com/iDoubleCharm/iDoubleCharm/blob/output/github-contribution-grid-snake.svg)
+
+
+
