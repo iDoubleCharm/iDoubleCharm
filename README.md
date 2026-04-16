@@ -32,8 +32,8 @@
 
 ---
 
-### Stats 📊      ![Profile Views](https://komarev.com/ghpvc/?username=iDoubleCharm)
-
+### Stats 📊      <br/>
+![Profile Views](https://komarev.com/ghpvc/?username=iDoubleCharm)
 
 ![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDoubleCharm&show_icons=true&theme=radical)
 
