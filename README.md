@@ -1,4 +1,4 @@
-
+<img src="https://via.placeholder.com/1200x300?text=iDoubleCharm" alt="Banner" width="100%" />
 
 # Hi, I'm Enes Eymen! ⚡🌌       
 
