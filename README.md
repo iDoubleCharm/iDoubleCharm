@@ -50,4 +50,4 @@
 Markdown
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/iDoubleCharm/iDoubleCharm/blob/output/github-contribution-grid-snake
+![snake gif](https://github.com/iDoubleCharm/iDoubleCharm/blob/output/github-contribution-grid-snake.svg)
