@@ -52,12 +52,18 @@ My greatest curiosity on my current journey is how artificial intelligence will 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iDoubleCharm&theme=radical)
 
+
+
+<br/>
+"This profile and its contents are crafted with the assistance of AI to better communicate my vision and technical goals."
+
+<br/>
 <p align="right">
-  Handcrafted with by <b>iDoubleCharm⚡</b>
+  Handcrafted with by <b>iDoubleCharm ⚛️ </b>
 </p>
 
 
-Markdown
+
 ## 🐍 Contribution Graph
 
 ![snake gif](https://github.com/iDoubleCharm/iDoubleCharm/blob/output/github-contribution-grid-snake.svg)
