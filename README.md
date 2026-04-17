@@ -1,17 +1,26 @@
 
-# Hi, I'm Enes Eymen! ⚡🌌       
+# Hi there, I'm Enes Eymen! 👋      
 
 ### 🦾 About Me 
-- I see software and technology not just as tools, but as a way to bring code to life. I’m a project enthusiast who loves putting theoretical knowledge into practice. For me, the most exciting part of coding is finding aesthetic and functional solutions to complex problems.
+I see software not just as writing code, but as turning dreams into reality. I love turning theoretical knowledge into projects and finding simple, elegant solutions to complex problems.
+
+My greatest curiosity on my current journey is how artificial intelligence will move beyond screens and into the physical world through robots (Embodied AI). I believe the future lies in the harmony of intelligence and movement.
 
 ---
 
-### 🚀 Vision 
-- Building the technologies of the future by blending robotic systems and artificial intelligence with an aesthetic perspective. Not only understanding science, but transforming it into a tangible and interactive reality through software.
+### 🚀My Vision & Focus 
+- Embodied AI: Exploring how intelligence can interact with the physical world.
+
+- Artificial Intelligence: Interested in Local LLM Architectures and Generative AI.
+
+- Future Tech: Following advancements in Neuralink and Human-Machine Interaction.
+
+- Clean Code: Focused on writing readable, maintainable, and aesthetic code.
+
 ---
 
 ### 🏆 Experiences & Insights
-- WRO 2025 Türkiye | RoboMission Senior :As the software lead for my team, I designed autonomous driving algorithms and mission completion logic from start to finish. I gained experience in the integration of complex systems and addressing field issues.
+- WRO 2025 Türkiye | RoboMission Senior: As the software lead for my team, I designed autonomous driving algorithms and mission completion logic from start to finish. I gained experience in the integration of complex systems and addressing field issues.
 - YetGen & Doping Hafıza:  As part of 21st-century skills and professional development, I successfully completed an interdisciplinary training program focused on basic literacy skills, effective presentation techniques, and teamwork.
 
 ---
@@ -20,9 +29,11 @@
 - Tools & Platforms:  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" align="center" />  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" align="center" />  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" align="center" />
 - Frameworks & Libraries: **LOADING...**  🏗️
 ---
-### Connect with me          
+### 📫 Connect with me  
+   I am always open to feedback, mentorship, and opportunities to support tech projects. If my vision resonates with you, I would love to connect and learn from your experiences.
 - Gmail: tunaeneseymen@gmail.com
 - LinkedIn: www.linkedin.com/in/enes-eymen-tuna
+
 ---
 <p align="center">
   <h2>🦾 Technology Meets Essence 🌹</h2>
