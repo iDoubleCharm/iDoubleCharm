@@ -50,9 +50,6 @@ My greatest curiosity on my current journey is how artificial intelligence will 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoubleCharm&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iDoubleCharm&theme=radical)
-
-
 
 <br/>
 "This profile and its contents are crafted with the assistance of AI to better communicate my vision and technical goals."
