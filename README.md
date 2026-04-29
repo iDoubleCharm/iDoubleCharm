@@ -61,12 +61,3 @@ My greatest curiosity on my current journey is how artificial intelligence will 
 <p align="right">
   Handcrafted with by <b>iDoubleCharm ⚛️ </b>
 </p>
-
-
-
-## 🐍 Contribution Graph
-
-![snake gif](https://github.com/iDoubleCharm/iDoubleCharm/blob/output/github-contribution-grid-snake.svg)
-
-
-
