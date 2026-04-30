@@ -43,8 +43,7 @@ My greatest curiosity on my current journey is how artificial intelligence will 
 
 ---
 
-### Stats 📊      <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=iDoubleCharm)
+### Stats 📊     
 
 ![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDoubleCharm&show_icons=true&theme=radical)
 
